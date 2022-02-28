@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @giodifi, I'm 18
+- 👋 Hi, I’m @giodifi, I'm 18 years old
 - 👀 I’m interested in software development in general
-- 🤖 I’m currently learning languages like JavaScript and PhP and I'm developing some Android App and Games
-- 💻 I know C, C++, C#, Python, Java, HTML, CSS
-- 📫 How to reach me: gioeledifi@gmail.com
+- 🤖 I’m currently learning PhP and I'm learning libraries like Vue.js and Node.js
+- 💻 I know C++, C#, Python, Java, HTML, CSS, JavaScript
+- 🔰 I use to know Bootstrap
+- 📫 Where to reach me: gioeledifi@gmail.com
 
 <!---
 giodifi/giodifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
